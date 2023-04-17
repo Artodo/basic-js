@@ -20,8 +20,6 @@ function getSumOfDigits(n) {
     return transform(sum);
 }
 
-getSumOfDigits(91);
-
 module.exports = {
     getSumOfDigits
 };
